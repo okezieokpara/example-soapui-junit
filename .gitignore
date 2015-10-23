@@ -1,5 +1,11 @@
 target/
+.idea
 surefire/
 *.log
 .settings/
 .classpath
+.project
+*.iml
+/bin
+
+
