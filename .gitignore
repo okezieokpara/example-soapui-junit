@@ -1,6 +1,6 @@
 target/
 .idea
-
+surefire/
 *.log
 .settings/
 .classpath
